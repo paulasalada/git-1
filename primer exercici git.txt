@@ -1,0 +1,2 @@
+hola
+aquest es el primer exercici de git
