@@ -7,4 +7,6 @@ aquest es el primer exercici de git
 segona linia
 
 
+tercera linia master
+
 
